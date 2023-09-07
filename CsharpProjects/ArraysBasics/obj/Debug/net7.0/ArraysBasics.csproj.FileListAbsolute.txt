@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysBasics\bin\Debug\net7.0\ArraysBasics.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysBasics\bin\Debug\net7.0\ArraysBasics.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysBasics\bin\Debug\net7.0\ArraysBasics.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysBasics\bin\Debug\net7.0\ArraysBasics.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysBasics\bin\Debug\net7.0\ArraysBasics.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysBasics\obj\Debug\net7.0\ArraysBasics.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysBasics\obj\Debug\net7.0\ArraysBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysBasics\obj\Debug\net7.0\ArraysBasics.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysBasics\obj\Debug\net7.0\ArraysBasics.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysBasics\obj\Debug\net7.0\ArraysBasics.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysBasics\obj\Debug\net7.0\ArraysBasics.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysBasics\obj\Debug\net7.0\refint\ArraysBasics.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysBasics\obj\Debug\net7.0\ArraysBasics.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysBasics\obj\Debug\net7.0\ArraysBasics.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysBasics\obj\Debug\net7.0\ref\ArraysBasics.dll
