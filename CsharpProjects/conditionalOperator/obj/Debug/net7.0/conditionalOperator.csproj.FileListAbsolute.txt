@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\conditionalOperator\bin\Debug\net7.0\conditionalOperator.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\conditionalOperator\bin\Debug\net7.0\conditionalOperator.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\conditionalOperator\bin\Debug\net7.0\conditionalOperator.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\conditionalOperator\bin\Debug\net7.0\conditionalOperator.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\conditionalOperator\bin\Debug\net7.0\conditionalOperator.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\conditionalOperator\obj\Debug\net7.0\conditionalOperator.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\conditionalOperator\obj\Debug\net7.0\conditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\conditionalOperator\obj\Debug\net7.0\conditionalOperator.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\conditionalOperator\obj\Debug\net7.0\conditionalOperator.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\conditionalOperator\obj\Debug\net7.0\conditionalOperator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\conditionalOperator\obj\Debug\net7.0\conditionalOperator.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\conditionalOperator\obj\Debug\net7.0\refint\conditionalOperator.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\conditionalOperator\obj\Debug\net7.0\conditionalOperator.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\conditionalOperator\obj\Debug\net7.0\conditionalOperator.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\conditionalOperator\obj\Debug\net7.0\ref\conditionalOperator.dll

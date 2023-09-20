@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableScope\bin\Debug\net7.0\variableScope.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableScope\bin\Debug\net7.0\variableScope.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableScope\bin\Debug\net7.0\variableScope.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableScope\bin\Debug\net7.0\variableScope.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableScope\bin\Debug\net7.0\variableScope.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableScope\obj\Debug\net7.0\variableScope.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableScope\obj\Debug\net7.0\variableScope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableScope\obj\Debug\net7.0\variableScope.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableScope\obj\Debug\net7.0\variableScope.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableScope\obj\Debug\net7.0\variableScope.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableScope\obj\Debug\net7.0\variableScope.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableScope\obj\Debug\net7.0\refint\variableScope.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableScope\obj\Debug\net7.0\variableScope.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableScope\obj\Debug\net7.0\variableScope.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableScope\obj\Debug\net7.0\ref\variableScope.dll

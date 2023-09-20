@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableNames\bin\Debug\net7.0\variableNames.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableNames\bin\Debug\net7.0\variableNames.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableNames\bin\Debug\net7.0\variableNames.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableNames\bin\Debug\net7.0\variableNames.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableNames\bin\Debug\net7.0\variableNames.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableNames\obj\Debug\net7.0\variableNames.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableNames\obj\Debug\net7.0\variableNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableNames\obj\Debug\net7.0\variableNames.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableNames\obj\Debug\net7.0\variableNames.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableNames\obj\Debug\net7.0\variableNames.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableNames\obj\Debug\net7.0\variableNames.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableNames\obj\Debug\net7.0\refint\variableNames.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableNames\obj\Debug\net7.0\variableNames.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableNames\obj\Debug\net7.0\variableNames.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\variableNames\obj\Debug\net7.0\ref\variableNames.dll
