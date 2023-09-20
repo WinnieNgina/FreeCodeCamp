@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\pascalTriangle\bin\Debug\net7.0\pascalTriangle.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\pascalTriangle\bin\Debug\net7.0\pascalTriangle.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\pascalTriangle\bin\Debug\net7.0\pascalTriangle.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\pascalTriangle\bin\Debug\net7.0\pascalTriangle.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\pascalTriangle\bin\Debug\net7.0\pascalTriangle.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\pascalTriangle\obj\Debug\net7.0\pascalTriangle.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\pascalTriangle\obj\Debug\net7.0\pascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\pascalTriangle\obj\Debug\net7.0\pascalTriangle.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\pascalTriangle\obj\Debug\net7.0\pascalTriangle.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\pascalTriangle\obj\Debug\net7.0\pascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\pascalTriangle\obj\Debug\net7.0\pascalTriangle.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\pascalTriangle\obj\Debug\net7.0\refint\pascalTriangle.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\pascalTriangle\obj\Debug\net7.0\pascalTriangle.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\pascalTriangle\obj\Debug\net7.0\pascalTriangle.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\pascalTriangle\obj\Debug\net7.0\ref\pascalTriangle.dll
