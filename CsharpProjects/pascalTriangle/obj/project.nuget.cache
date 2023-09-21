@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "goO1QhDEzOvj4BYRS4Dvx6HJbfKr0dl9l+hOUNVCL34pDITBRllKGVhQa1BwbnPVtN9lrJsCp0P+kP0NxSJ7bA==",
+  "dgSpecHash": "fxaYWbSUDbiSSBWrXbHFN05HtcyMt3gfsG7qibVB5NUHMktRE/tAdsiz2Pw+JLBict+hrsFi6//7REX3rhdAxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\CsharpProjects\\FreeCodeCamp\\CsharpProjects\\pascalTriangle\\pascalTriangle.csproj",
+  "projectFilePath": "c:\\Users\\user\\Desktop\\CsharpProjects\\FreeCodeCamp\\CsharpProjects\\pascalTriangle\\pascalTriangle.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
