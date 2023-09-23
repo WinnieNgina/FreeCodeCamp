@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\numberValidation\bin\Debug\net7.0\numberValidation.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\numberValidation\bin\Debug\net7.0\numberValidation.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\numberValidation\bin\Debug\net7.0\numberValidation.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\numberValidation\bin\Debug\net7.0\numberValidation.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\numberValidation\bin\Debug\net7.0\numberValidation.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\numberValidation\obj\Debug\net7.0\numberValidation.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\numberValidation\obj\Debug\net7.0\numberValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\numberValidation\obj\Debug\net7.0\numberValidation.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\numberValidation\obj\Debug\net7.0\numberValidation.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\numberValidation\obj\Debug\net7.0\numberValidation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\numberValidation\obj\Debug\net7.0\numberValidation.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\numberValidation\obj\Debug\net7.0\refint\numberValidation.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\numberValidation\obj\Debug\net7.0\numberValidation.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\numberValidation\obj\Debug\net7.0\numberValidation.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\numberValidation\obj\Debug\net7.0\ref\numberValidation.dll
