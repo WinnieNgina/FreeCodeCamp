@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringValidation\bin\Debug\net7.0\stringValidation.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringValidation\bin\Debug\net7.0\stringValidation.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringValidation\bin\Debug\net7.0\stringValidation.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringValidation\bin\Debug\net7.0\stringValidation.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringValidation\bin\Debug\net7.0\stringValidation.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringValidation\obj\Debug\net7.0\stringValidation.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringValidation\obj\Debug\net7.0\stringValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringValidation\obj\Debug\net7.0\stringValidation.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringValidation\obj\Debug\net7.0\stringValidation.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringValidation\obj\Debug\net7.0\stringValidation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringValidation\obj\Debug\net7.0\stringValidation.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringValidation\obj\Debug\net7.0\refint\stringValidation.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringValidation\obj\Debug\net7.0\stringValidation.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringValidation\obj\Debug\net7.0\stringValidation.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringValidation\obj\Debug\net7.0\ref\stringValidation.dll
