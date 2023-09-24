@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringArray\bin\Debug\net7.0\stringArray.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringArray\bin\Debug\net7.0\stringArray.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringArray\bin\Debug\net7.0\stringArray.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringArray\bin\Debug\net7.0\stringArray.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringArray\bin\Debug\net7.0\stringArray.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringArray\obj\Debug\net7.0\stringArray.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringArray\obj\Debug\net7.0\stringArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringArray\obj\Debug\net7.0\stringArray.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringArray\obj\Debug\net7.0\stringArray.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringArray\obj\Debug\net7.0\stringArray.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringArray\obj\Debug\net7.0\stringArray.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringArray\obj\Debug\net7.0\refint\stringArray.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringArray\obj\Debug\net7.0\stringArray.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringArray\obj\Debug\net7.0\stringArray.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringArray\obj\Debug\net7.0\ref\stringArray.dll
