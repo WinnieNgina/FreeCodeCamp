@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysConversion\bin\Debug\net7.0\ArraysConversion.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysConversion\bin\Debug\net7.0\ArraysConversion.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysConversion\bin\Debug\net7.0\ArraysConversion.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysConversion\bin\Debug\net7.0\ArraysConversion.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysConversion\bin\Debug\net7.0\ArraysConversion.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysConversion\obj\Debug\net7.0\ArraysConversion.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysConversion\obj\Debug\net7.0\ArraysConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysConversion\obj\Debug\net7.0\ArraysConversion.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysConversion\obj\Debug\net7.0\ArraysConversion.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysConversion\obj\Debug\net7.0\ArraysConversion.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysConversion\obj\Debug\net7.0\ArraysConversion.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysConversion\obj\Debug\net7.0\refint\ArraysConversion.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysConversion\obj\Debug\net7.0\ArraysConversion.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysConversion\obj\Debug\net7.0\ArraysConversion.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysConversion\obj\Debug\net7.0\ref\ArraysConversion.dll

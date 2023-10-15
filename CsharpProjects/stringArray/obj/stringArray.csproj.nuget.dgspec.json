@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\CsharpProjects\\FreeCodeCamp\\CsharpProjects\\stringArray\\stringArray.csproj": {}
+    "c:\\Users\\user\\Desktop\\CsharpProjects\\FreeCodeCamp\\CsharpProjects\\stringArray\\stringArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\CsharpProjects\\FreeCodeCamp\\CsharpProjects\\stringArray\\stringArray.csproj": {
+    "c:\\Users\\user\\Desktop\\CsharpProjects\\FreeCodeCamp\\CsharpProjects\\stringArray\\stringArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\CsharpProjects\\FreeCodeCamp\\CsharpProjects\\stringArray\\stringArray.csproj",
+        "projectUniqueName": "c:\\Users\\user\\Desktop\\CsharpProjects\\FreeCodeCamp\\CsharpProjects\\stringArray\\stringArray.csproj",
         "projectName": "stringArray",
-        "projectPath": "C:\\Users\\user\\Desktop\\CsharpProjects\\FreeCodeCamp\\CsharpProjects\\stringArray\\stringArray.csproj",
+        "projectPath": "c:\\Users\\user\\Desktop\\CsharpProjects\\FreeCodeCamp\\CsharpProjects\\stringArray\\stringArray.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\CsharpProjects\\FreeCodeCamp\\CsharpProjects\\stringArray\\obj\\",
+        "outputPath": "c:\\Users\\user\\Desktop\\CsharpProjects\\FreeCodeCamp\\CsharpProjects\\stringArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

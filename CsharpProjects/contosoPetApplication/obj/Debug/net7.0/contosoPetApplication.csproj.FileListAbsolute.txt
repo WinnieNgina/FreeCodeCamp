@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\contosoPetApplication\bin\Debug\net7.0\contosoPetApplication.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\contosoPetApplication\bin\Debug\net7.0\contosoPetApplication.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\contosoPetApplication\bin\Debug\net7.0\contosoPetApplication.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\contosoPetApplication\bin\Debug\net7.0\contosoPetApplication.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\contosoPetApplication\bin\Debug\net7.0\contosoPetApplication.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\contosoPetApplication\obj\Debug\net7.0\contosoPetApplication.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\contosoPetApplication\obj\Debug\net7.0\contosoPetApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\contosoPetApplication\obj\Debug\net7.0\contosoPetApplication.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\contosoPetApplication\obj\Debug\net7.0\contosoPetApplication.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\contosoPetApplication\obj\Debug\net7.0\contosoPetApplication.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\contosoPetApplication\obj\Debug\net7.0\contosoPetApplication.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\contosoPetApplication\obj\Debug\net7.0\refint\contosoPetApplication.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\contosoPetApplication\obj\Debug\net7.0\contosoPetApplication.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\contosoPetApplication\obj\Debug\net7.0\contosoPetApplication.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\contosoPetApplication\obj\Debug\net7.0\ref\contosoPetApplication.dll

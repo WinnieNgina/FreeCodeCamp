@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\user\\Desktop\\CsharpProjects\\FreeCodeCamp\\CsharpProjects\\pascalTriangle\\pascalTriangle.csproj": {}
+    "C:\\Users\\user\\Desktop\\CsharpProjects\\FreeCodeCamp\\CsharpProjects\\pascalTriangle\\pascalTriangle.csproj": {}
   },
   "projects": {
-    "c:\\Users\\user\\Desktop\\CsharpProjects\\FreeCodeCamp\\CsharpProjects\\pascalTriangle\\pascalTriangle.csproj": {
+    "C:\\Users\\user\\Desktop\\CsharpProjects\\FreeCodeCamp\\CsharpProjects\\pascalTriangle\\pascalTriangle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\user\\Desktop\\CsharpProjects\\FreeCodeCamp\\CsharpProjects\\pascalTriangle\\pascalTriangle.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\CsharpProjects\\FreeCodeCamp\\CsharpProjects\\pascalTriangle\\pascalTriangle.csproj",
         "projectName": "pascalTriangle",
-        "projectPath": "c:\\Users\\user\\Desktop\\CsharpProjects\\FreeCodeCamp\\CsharpProjects\\pascalTriangle\\pascalTriangle.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\CsharpProjects\\FreeCodeCamp\\CsharpProjects\\pascalTriangle\\pascalTriangle.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\user\\Desktop\\CsharpProjects\\FreeCodeCamp\\CsharpProjects\\pascalTriangle\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\CsharpProjects\\FreeCodeCamp\\CsharpProjects\\pascalTriangle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

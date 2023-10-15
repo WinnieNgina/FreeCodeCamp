@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\dataConversion\bin\Debug\net7.0\dataConversion.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\dataConversion\bin\Debug\net7.0\dataConversion.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\dataConversion\bin\Debug\net7.0\dataConversion.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\dataConversion\bin\Debug\net7.0\dataConversion.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\dataConversion\bin\Debug\net7.0\dataConversion.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\dataConversion\obj\Debug\net7.0\dataConversion.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\dataConversion\obj\Debug\net7.0\dataConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\dataConversion\obj\Debug\net7.0\dataConversion.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\dataConversion\obj\Debug\net7.0\dataConversion.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\dataConversion\obj\Debug\net7.0\dataConversion.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\dataConversion\obj\Debug\net7.0\dataConversion.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\dataConversion\obj\Debug\net7.0\refint\dataConversion.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\dataConversion\obj\Debug\net7.0\dataConversion.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\dataConversion\obj\Debug\net7.0\dataConversion.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\dataConversion\obj\Debug\net7.0\ref\dataConversion.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\mathOperations\bin\Debug\net7.0\mathOperations.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\mathOperations\bin\Debug\net7.0\mathOperations.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\mathOperations\bin\Debug\net7.0\mathOperations.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\mathOperations\bin\Debug\net7.0\mathOperations.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\mathOperations\bin\Debug\net7.0\mathOperations.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\mathOperations\obj\Debug\net7.0\mathOperations.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\mathOperations\obj\Debug\net7.0\mathOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\mathOperations\obj\Debug\net7.0\mathOperations.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\mathOperations\obj\Debug\net7.0\mathOperations.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\mathOperations\obj\Debug\net7.0\mathOperations.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\mathOperations\obj\Debug\net7.0\mathOperations.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\mathOperations\obj\Debug\net7.0\refint\mathOperations.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\mathOperations\obj\Debug\net7.0\mathOperations.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\mathOperations\obj\Debug\net7.0\mathOperations.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\mathOperations\obj\Debug\net7.0\ref\mathOperations.dll
