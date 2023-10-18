@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\codeChallenge\bin\Debug\net7.0\codeChallenge.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\codeChallenge\bin\Debug\net7.0\codeChallenge.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\codeChallenge\bin\Debug\net7.0\codeChallenge.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\codeChallenge\bin\Debug\net7.0\codeChallenge.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\codeChallenge\bin\Debug\net7.0\codeChallenge.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\codeChallenge\obj\Debug\net7.0\codeChallenge.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\codeChallenge\obj\Debug\net7.0\codeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\codeChallenge\obj\Debug\net7.0\codeChallenge.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\codeChallenge\obj\Debug\net7.0\codeChallenge.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\codeChallenge\obj\Debug\net7.0\codeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\codeChallenge\obj\Debug\net7.0\codeChallenge.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\codeChallenge\obj\Debug\net7.0\refint\codeChallenge.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\codeChallenge\obj\Debug\net7.0\codeChallenge.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\codeChallenge\obj\Debug\net7.0\codeChallenge.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\codeChallenge\obj\Debug\net7.0\ref\codeChallenge.dll

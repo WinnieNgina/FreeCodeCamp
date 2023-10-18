@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\SplitJoin\bin\Debug\net7.0\SplitJoin.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\SplitJoin\bin\Debug\net7.0\SplitJoin.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\SplitJoin\bin\Debug\net7.0\SplitJoin.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\SplitJoin\bin\Debug\net7.0\SplitJoin.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\SplitJoin\bin\Debug\net7.0\SplitJoin.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\SplitJoin\obj\Debug\net7.0\SplitJoin.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\SplitJoin\obj\Debug\net7.0\SplitJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\SplitJoin\obj\Debug\net7.0\SplitJoin.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\SplitJoin\obj\Debug\net7.0\SplitJoin.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\SplitJoin\obj\Debug\net7.0\SplitJoin.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\SplitJoin\obj\Debug\net7.0\SplitJoin.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\SplitJoin\obj\Debug\net7.0\refint\SplitJoin.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\SplitJoin\obj\Debug\net7.0\SplitJoin.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\SplitJoin\obj\Debug\net7.0\SplitJoin.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\SplitJoin\obj\Debug\net7.0\ref\SplitJoin.dll

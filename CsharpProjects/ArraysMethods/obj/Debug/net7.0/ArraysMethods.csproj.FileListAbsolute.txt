@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysMethods\bin\Debug\net7.0\ArraysMethods.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysMethods\bin\Debug\net7.0\ArraysMethods.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysMethods\bin\Debug\net7.0\ArraysMethods.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysMethods\bin\Debug\net7.0\ArraysMethods.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysMethods\bin\Debug\net7.0\ArraysMethods.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysMethods\obj\Debug\net7.0\ArraysMethods.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysMethods\obj\Debug\net7.0\ArraysMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysMethods\obj\Debug\net7.0\ArraysMethods.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysMethods\obj\Debug\net7.0\ArraysMethods.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysMethods\obj\Debug\net7.0\ArraysMethods.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysMethods\obj\Debug\net7.0\ArraysMethods.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysMethods\obj\Debug\net7.0\refint\ArraysMethods.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysMethods\obj\Debug\net7.0\ArraysMethods.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysMethods\obj\Debug\net7.0\ArraysMethods.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ArraysMethods\obj\Debug\net7.0\ref\ArraysMethods.dll
