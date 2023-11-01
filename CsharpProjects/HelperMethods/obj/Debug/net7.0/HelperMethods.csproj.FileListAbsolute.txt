@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\HelperMethods\bin\Debug\net7.0\HelperMethods.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\HelperMethods\bin\Debug\net7.0\HelperMethods.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\HelperMethods\bin\Debug\net7.0\HelperMethods.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\HelperMethods\bin\Debug\net7.0\HelperMethods.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\HelperMethods\bin\Debug\net7.0\HelperMethods.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\HelperMethods\obj\Debug\net7.0\HelperMethods.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\HelperMethods\obj\Debug\net7.0\HelperMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\HelperMethods\obj\Debug\net7.0\HelperMethods.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\HelperMethods\obj\Debug\net7.0\HelperMethods.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\HelperMethods\obj\Debug\net7.0\HelperMethods.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\HelperMethods\obj\Debug\net7.0\HelperMethods.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\HelperMethods\obj\Debug\net7.0\refint\HelperMethods.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\HelperMethods\obj\Debug\net7.0\HelperMethods.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\HelperMethods\obj\Debug\net7.0\HelperMethods.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\HelperMethods\obj\Debug\net7.0\ref\HelperMethods.dll

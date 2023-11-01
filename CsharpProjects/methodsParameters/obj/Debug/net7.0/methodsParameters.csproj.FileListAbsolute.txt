@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\methodsParameters\bin\Debug\net7.0\methodsParameters.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\methodsParameters\bin\Debug\net7.0\methodsParameters.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\methodsParameters\bin\Debug\net7.0\methodsParameters.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\methodsParameters\bin\Debug\net7.0\methodsParameters.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\methodsParameters\bin\Debug\net7.0\methodsParameters.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\methodsParameters\obj\Debug\net7.0\methodsParameters.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\methodsParameters\obj\Debug\net7.0\methodsParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\methodsParameters\obj\Debug\net7.0\methodsParameters.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\methodsParameters\obj\Debug\net7.0\methodsParameters.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\methodsParameters\obj\Debug\net7.0\methodsParameters.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\methodsParameters\obj\Debug\net7.0\methodsParameters.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\methodsParameters\obj\Debug\net7.0\refint\methodsParameters.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\methodsParameters\obj\Debug\net7.0\methodsParameters.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\methodsParameters\obj\Debug\net7.0\methodsParameters.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\methodsParameters\obj\Debug\net7.0\ref\methodsParameters.dll

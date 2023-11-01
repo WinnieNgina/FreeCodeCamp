@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\compositeFormating\bin\Debug\net7.0\compositeFormating.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\compositeFormating\bin\Debug\net7.0\compositeFormating.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\compositeFormating\bin\Debug\net7.0\compositeFormating.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\compositeFormating\bin\Debug\net7.0\compositeFormating.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\compositeFormating\bin\Debug\net7.0\compositeFormating.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\compositeFormating\obj\Debug\net7.0\compositeFormating.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\compositeFormating\obj\Debug\net7.0\compositeFormating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\compositeFormating\obj\Debug\net7.0\compositeFormating.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\compositeFormating\obj\Debug\net7.0\compositeFormating.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\compositeFormating\obj\Debug\net7.0\compositeFormating.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\compositeFormating\obj\Debug\net7.0\compositeFormating.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\compositeFormating\obj\Debug\net7.0\refint\compositeFormating.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\compositeFormating\obj\Debug\net7.0\compositeFormating.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\compositeFormating\obj\Debug\net7.0\compositeFormating.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\compositeFormating\obj\Debug\net7.0\ref\compositeFormating.dll

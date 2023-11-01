@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringModification\bin\Debug\net7.0\stringModification.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringModification\bin\Debug\net7.0\stringModification.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringModification\bin\Debug\net7.0\stringModification.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringModification\bin\Debug\net7.0\stringModification.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringModification\bin\Debug\net7.0\stringModification.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringModification\obj\Debug\net7.0\stringModification.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringModification\obj\Debug\net7.0\stringModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringModification\obj\Debug\net7.0\stringModification.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringModification\obj\Debug\net7.0\stringModification.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringModification\obj\Debug\net7.0\stringModification.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringModification\obj\Debug\net7.0\stringModification.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringModification\obj\Debug\net7.0\refint\stringModification.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringModification\obj\Debug\net7.0\stringModification.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringModification\obj\Debug\net7.0\stringModification.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\stringModification\obj\Debug\net7.0\ref\stringModification.dll

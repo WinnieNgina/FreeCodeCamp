@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\tellFortune\bin\Debug\net7.0\tellFortune.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\tellFortune\bin\Debug\net7.0\tellFortune.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\tellFortune\bin\Debug\net7.0\tellFortune.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\tellFortune\bin\Debug\net7.0\tellFortune.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\tellFortune\bin\Debug\net7.0\tellFortune.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\tellFortune\obj\Debug\net7.0\tellFortune.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\tellFortune\obj\Debug\net7.0\tellFortune.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\tellFortune\obj\Debug\net7.0\tellFortune.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\tellFortune\obj\Debug\net7.0\tellFortune.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\tellFortune\obj\Debug\net7.0\tellFortune.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\tellFortune\obj\Debug\net7.0\tellFortune.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\tellFortune\obj\Debug\net7.0\refint\tellFortune.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\tellFortune\obj\Debug\net7.0\tellFortune.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\tellFortune\obj\Debug\net7.0\tellFortune.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\tellFortune\obj\Debug\net7.0\ref\tellFortune.dll

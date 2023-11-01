@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReplaceRemove\bin\Debug\net7.0\ReplaceRemove.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReplaceRemove\bin\Debug\net7.0\ReplaceRemove.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReplaceRemove\bin\Debug\net7.0\ReplaceRemove.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReplaceRemove\bin\Debug\net7.0\ReplaceRemove.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReplaceRemove\bin\Debug\net7.0\ReplaceRemove.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReplaceRemove\obj\Debug\net7.0\ReplaceRemove.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReplaceRemove\obj\Debug\net7.0\ReplaceRemove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReplaceRemove\obj\Debug\net7.0\ReplaceRemove.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReplaceRemove\obj\Debug\net7.0\ReplaceRemove.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReplaceRemove\obj\Debug\net7.0\ReplaceRemove.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReplaceRemove\obj\Debug\net7.0\ReplaceRemove.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReplaceRemove\obj\Debug\net7.0\refint\ReplaceRemove.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReplaceRemove\obj\Debug\net7.0\ReplaceRemove.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReplaceRemove\obj\Debug\net7.0\ReplaceRemove.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReplaceRemove\obj\Debug\net7.0\ref\ReplaceRemove.dll

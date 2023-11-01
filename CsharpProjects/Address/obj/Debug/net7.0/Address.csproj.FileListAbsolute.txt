@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\Address\bin\Debug\net7.0\Address.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\Address\bin\Debug\net7.0\Address.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\Address\bin\Debug\net7.0\Address.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\Address\bin\Debug\net7.0\Address.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\Address\bin\Debug\net7.0\Address.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\Address\obj\Debug\net7.0\Address.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\Address\obj\Debug\net7.0\Address.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\Address\obj\Debug\net7.0\Address.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\Address\obj\Debug\net7.0\Address.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\Address\obj\Debug\net7.0\Address.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\Address\obj\Debug\net7.0\Address.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\Address\obj\Debug\net7.0\refint\Address.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\Address\obj\Debug\net7.0\Address.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\Address\obj\Debug\net7.0\Address.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\Address\obj\Debug\net7.0\ref\Address.dll

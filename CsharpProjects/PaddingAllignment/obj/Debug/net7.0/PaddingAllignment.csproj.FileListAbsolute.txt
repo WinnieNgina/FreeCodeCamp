@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\PaddingAllignment\bin\Debug\net7.0\PaddingAllignment.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\PaddingAllignment\bin\Debug\net7.0\PaddingAllignment.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\PaddingAllignment\bin\Debug\net7.0\PaddingAllignment.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\PaddingAllignment\bin\Debug\net7.0\PaddingAllignment.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\PaddingAllignment\bin\Debug\net7.0\PaddingAllignment.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\PaddingAllignment\obj\Debug\net7.0\PaddingAllignment.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\PaddingAllignment\obj\Debug\net7.0\PaddingAllignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\PaddingAllignment\obj\Debug\net7.0\PaddingAllignment.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\PaddingAllignment\obj\Debug\net7.0\PaddingAllignment.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\PaddingAllignment\obj\Debug\net7.0\PaddingAllignment.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\PaddingAllignment\obj\Debug\net7.0\PaddingAllignment.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\PaddingAllignment\obj\Debug\net7.0\refint\PaddingAllignment.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\PaddingAllignment\obj\Debug\net7.0\PaddingAllignment.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\PaddingAllignment\obj\Debug\net7.0\PaddingAllignment.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\PaddingAllignment\obj\Debug\net7.0\ref\PaddingAllignment.dll
