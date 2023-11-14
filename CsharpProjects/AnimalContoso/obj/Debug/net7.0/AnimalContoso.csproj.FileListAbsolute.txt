@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\AnimalContoso\bin\Debug\net7.0\AnimalContoso.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\AnimalContoso\bin\Debug\net7.0\AnimalContoso.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\AnimalContoso\bin\Debug\net7.0\AnimalContoso.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\AnimalContoso\bin\Debug\net7.0\AnimalContoso.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\AnimalContoso\bin\Debug\net7.0\AnimalContoso.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\AnimalContoso\obj\Debug\net7.0\AnimalContoso.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\AnimalContoso\obj\Debug\net7.0\AnimalContoso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\AnimalContoso\obj\Debug\net7.0\AnimalContoso.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\AnimalContoso\obj\Debug\net7.0\AnimalContoso.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\AnimalContoso\obj\Debug\net7.0\AnimalContoso.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\AnimalContoso\obj\Debug\net7.0\AnimalContoso.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\AnimalContoso\obj\Debug\net7.0\refint\AnimalContoso.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\AnimalContoso\obj\Debug\net7.0\AnimalContoso.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\AnimalContoso\obj\Debug\net7.0\AnimalContoso.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\AnimalContoso\obj\Debug\net7.0\ref\AnimalContoso.dll

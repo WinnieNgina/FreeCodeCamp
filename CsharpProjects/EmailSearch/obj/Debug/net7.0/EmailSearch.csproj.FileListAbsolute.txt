@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\EmailSearch\bin\Debug\net7.0\EmailSearch.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\EmailSearch\bin\Debug\net7.0\EmailSearch.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\EmailSearch\bin\Debug\net7.0\EmailSearch.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\EmailSearch\bin\Debug\net7.0\EmailSearch.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\EmailSearch\bin\Debug\net7.0\EmailSearch.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\EmailSearch\obj\Debug\net7.0\EmailSearch.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\EmailSearch\obj\Debug\net7.0\EmailSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\EmailSearch\obj\Debug\net7.0\EmailSearch.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\EmailSearch\obj\Debug\net7.0\EmailSearch.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\EmailSearch\obj\Debug\net7.0\EmailSearch.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\EmailSearch\obj\Debug\net7.0\EmailSearch.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\EmailSearch\obj\Debug\net7.0\refint\EmailSearch.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\EmailSearch\obj\Debug\net7.0\EmailSearch.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\EmailSearch\obj\Debug\net7.0\EmailSearch.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\EmailSearch\obj\Debug\net7.0\ref\EmailSearch.dll

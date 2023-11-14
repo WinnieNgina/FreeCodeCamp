@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReturnBoolean\bin\Debug\net7.0\ReturnBoolean.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReturnBoolean\bin\Debug\net7.0\ReturnBoolean.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReturnBoolean\bin\Debug\net7.0\ReturnBoolean.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReturnBoolean\bin\Debug\net7.0\ReturnBoolean.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReturnBoolean\bin\Debug\net7.0\ReturnBoolean.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReturnBoolean\obj\Debug\net7.0\ReturnBoolean.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReturnBoolean\obj\Debug\net7.0\ReturnBoolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReturnBoolean\obj\Debug\net7.0\ReturnBoolean.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReturnBoolean\obj\Debug\net7.0\ReturnBoolean.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReturnBoolean\obj\Debug\net7.0\ReturnBoolean.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReturnBoolean\obj\Debug\net7.0\ReturnBoolean.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReturnBoolean\obj\Debug\net7.0\refint\ReturnBoolean.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReturnBoolean\obj\Debug\net7.0\ReturnBoolean.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReturnBoolean\obj\Debug\net7.0\ReturnBoolean.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ReturnBoolean\obj\Debug\net7.0\ref\ReturnBoolean.dll
