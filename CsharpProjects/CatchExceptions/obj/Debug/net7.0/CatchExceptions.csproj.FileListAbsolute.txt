@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\CatchExceptions\bin\Debug\net7.0\CatchExceptions.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\CatchExceptions\bin\Debug\net7.0\CatchExceptions.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\CatchExceptions\bin\Debug\net7.0\CatchExceptions.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\CatchExceptions\bin\Debug\net7.0\CatchExceptions.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\CatchExceptions\bin\Debug\net7.0\CatchExceptions.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\CatchExceptions\obj\Debug\net7.0\CatchExceptions.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\CatchExceptions\obj\Debug\net7.0\CatchExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\CatchExceptions\obj\Debug\net7.0\CatchExceptions.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\CatchExceptions\obj\Debug\net7.0\CatchExceptions.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\CatchExceptions\obj\Debug\net7.0\CatchExceptions.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\CatchExceptions\obj\Debug\net7.0\CatchExceptions.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\CatchExceptions\obj\Debug\net7.0\refint\CatchExceptions.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\CatchExceptions\obj\Debug\net7.0\CatchExceptions.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\CatchExceptions\obj\Debug\net7.0\CatchExceptions.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\CatchExceptions\obj\Debug\net7.0\ref\CatchExceptions.dll

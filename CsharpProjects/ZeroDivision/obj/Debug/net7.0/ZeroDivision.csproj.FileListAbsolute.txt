@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ZeroDivision\bin\Debug\net7.0\ZeroDivision.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ZeroDivision\bin\Debug\net7.0\ZeroDivision.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ZeroDivision\bin\Debug\net7.0\ZeroDivision.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ZeroDivision\bin\Debug\net7.0\ZeroDivision.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ZeroDivision\bin\Debug\net7.0\ZeroDivision.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ZeroDivision\obj\Debug\net7.0\ZeroDivision.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ZeroDivision\obj\Debug\net7.0\ZeroDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ZeroDivision\obj\Debug\net7.0\ZeroDivision.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ZeroDivision\obj\Debug\net7.0\ZeroDivision.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ZeroDivision\obj\Debug\net7.0\ZeroDivision.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ZeroDivision\obj\Debug\net7.0\ZeroDivision.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ZeroDivision\obj\Debug\net7.0\refint\ZeroDivision.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ZeroDivision\obj\Debug\net7.0\ZeroDivision.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ZeroDivision\obj\Debug\net7.0\ZeroDivision.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ZeroDivision\obj\Debug\net7.0\ref\ZeroDivision.dll

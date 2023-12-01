@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\DifferentExceptions\bin\Debug\net7.0\DifferentExceptions.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\DifferentExceptions\bin\Debug\net7.0\DifferentExceptions.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\DifferentExceptions\bin\Debug\net7.0\DifferentExceptions.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\DifferentExceptions\bin\Debug\net7.0\DifferentExceptions.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\DifferentExceptions\bin\Debug\net7.0\DifferentExceptions.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\DifferentExceptions\obj\Debug\net7.0\DifferentExceptions.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\DifferentExceptions\obj\Debug\net7.0\DifferentExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\DifferentExceptions\obj\Debug\net7.0\DifferentExceptions.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\DifferentExceptions\obj\Debug\net7.0\DifferentExceptions.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\DifferentExceptions\obj\Debug\net7.0\DifferentExceptions.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\DifferentExceptions\obj\Debug\net7.0\DifferentExceptions.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\DifferentExceptions\obj\Debug\net7.0\refint\DifferentExceptions.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\DifferentExceptions\obj\Debug\net7.0\DifferentExceptions.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\DifferentExceptions\obj\Debug\net7.0\DifferentExceptions.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\DifferentExceptions\obj\Debug\net7.0\ref\DifferentExceptions.dll

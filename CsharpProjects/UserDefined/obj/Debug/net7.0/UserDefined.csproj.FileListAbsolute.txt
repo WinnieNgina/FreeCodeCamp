@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\UserDefined\bin\Debug\net7.0\UserDefined.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\UserDefined\bin\Debug\net7.0\UserDefined.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\UserDefined\bin\Debug\net7.0\UserDefined.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\UserDefined\bin\Debug\net7.0\UserDefined.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\UserDefined\bin\Debug\net7.0\UserDefined.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\UserDefined\obj\Debug\net7.0\UserDefined.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\UserDefined\obj\Debug\net7.0\UserDefined.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\UserDefined\obj\Debug\net7.0\UserDefined.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\UserDefined\obj\Debug\net7.0\UserDefined.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\UserDefined\obj\Debug\net7.0\UserDefined.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\UserDefined\obj\Debug\net7.0\UserDefined.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\UserDefined\obj\Debug\net7.0\refint\UserDefined.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\UserDefined\obj\Debug\net7.0\UserDefined.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\UserDefined\obj\Debug\net7.0\UserDefined.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\UserDefined\obj\Debug\net7.0\ref\UserDefined.dll
