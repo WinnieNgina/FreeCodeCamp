@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ExcemptionsChallenge\bin\Debug\net7.0\ExcemptionsChallenge.exe
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ExcemptionsChallenge\bin\Debug\net7.0\ExcemptionsChallenge.deps.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ExcemptionsChallenge\bin\Debug\net7.0\ExcemptionsChallenge.runtimeconfig.json
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ExcemptionsChallenge\bin\Debug\net7.0\ExcemptionsChallenge.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ExcemptionsChallenge\bin\Debug\net7.0\ExcemptionsChallenge.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ExcemptionsChallenge\obj\Debug\net7.0\ExcemptionsChallenge.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ExcemptionsChallenge\obj\Debug\net7.0\ExcemptionsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ExcemptionsChallenge\obj\Debug\net7.0\ExcemptionsChallenge.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ExcemptionsChallenge\obj\Debug\net7.0\ExcemptionsChallenge.AssemblyInfo.cs
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ExcemptionsChallenge\obj\Debug\net7.0\ExcemptionsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ExcemptionsChallenge\obj\Debug\net7.0\ExcemptionsChallenge.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ExcemptionsChallenge\obj\Debug\net7.0\refint\ExcemptionsChallenge.dll
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ExcemptionsChallenge\obj\Debug\net7.0\ExcemptionsChallenge.pdb
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ExcemptionsChallenge\obj\Debug\net7.0\ExcemptionsChallenge.genruntimeconfig.cache
+C:\Users\user\Desktop\CsharpProjects\FreeCodeCamp\CsharpProjects\ExcemptionsChallenge\obj\Debug\net7.0\ref\ExcemptionsChallenge.dll

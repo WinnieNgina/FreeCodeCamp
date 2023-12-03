@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ExcemptionsChallenge/1.0.0": {
+        "runtime": {
+          "ExcemptionsChallenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExcemptionsChallenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
